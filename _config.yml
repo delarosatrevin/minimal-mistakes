@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My Personal Page"
+title                    : "EMHub"
 title_separator          : "-"
 name                     : &name "J.M. de la Rosa Trevin"
-description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
-url                      : https://delarosatrevin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Bridging between experimentalist and developers in Electron Microscopy"
+url                      : https://delarosatrevin.github.io 
 baseurl                  : "/mydocs" # the subpath of your site, e.g. "/blog"
 gh_repo                  : "https://github.com/delarosatrevin/mydocs/blob"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
