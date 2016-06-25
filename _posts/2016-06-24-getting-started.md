@@ -15,6 +15,10 @@ def myfunc(input):
     return input + 1
 ```
 
+I just want to update this information in case that someone could
+read about this in the following days. I hope it will show 25 of June
+as the last modification date.
+
 Check out the [Jekyll docs][jekyll-docs] 
 for more info on how to get the most out of Jekyll. 
 File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh]. 
